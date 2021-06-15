@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Danuja-Kowaski
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mobile and Web development, Data science and streaming.
+- 🌱 I’m currently a college student learning Computer Science 
+- 💞️ I’m looking to collaborate on any projects
+- 📫 Reach me on danuja.kowaski@gmail.com.
 
 <!---
 Danuja-Kowaski/Danuja-Kowaski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
