@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danuja-Kowaski
-- 👀 I’m interested in Mobile and Web development, Data science and streaming.
+- 👀 I’m interested in Mobile and Web development, Data science and Blockchain.
 - 🌱 I’m currently a college student learning Computer Science 
 - 💞️ I’m looking to collaborate on any projects
 - 📫 Reach me on danuja.kowaski@gmail.com.
